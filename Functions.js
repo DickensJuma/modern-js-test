@@ -11,6 +11,8 @@ function myNumber (a, b) {
       return a * b};
 console.log(myNumber(10, 4));
 
+
+
 function name(parameter1, parameter2, parameter3) {
       // code to be executed
     }
@@ -63,3 +65,44 @@ console.log(our_digit);
  
 };
   myFunction(20,3);
+
+
+  function greeting(parameterVariable) {
+      // This line prints 'Hello, World!' to the console:
+      console.log('Hello, World!');
+      console(greeting);
+  }
+ function stdout(parameterVariable) {
+       console.log('Welcome to 10 Days of JavaScript!');
+       console.log(stdout);
+      }
+
+      let myNumber = number(parameter); {
+        if (!Number.isNaN(number)) {
+          console.log("not my number");
+        } else { console.log("my number") }
+      }
+        console.log(myNumber(3));
+        
+      
+        
+      function greeting(parameterVariable) {
+        console.log("hello world");
+        console.log("10 days of coding");
+        console.log(parameterVariable);
+      }
+      
+        
+      //Implement a function named factorial that has one parameter: an integer, n. It must return the value of  (i.e.,n factorial).
+      function factorial(n) {
+        if (n === 0) {
+            return 1;
+        } else {
+            return (n * factorial(n - 1));
+        }
+    }
+
+    if ( let number  = 0 ; number <= 1; number ++) {
+      console.log(number);
+      
+    }
